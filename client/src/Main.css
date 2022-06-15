@@ -1,0 +1,37 @@
+.total {
+  position: relative;
+  bottom: 100px;
+  left: 800px;
+  font-size: 50px;
+}
+
+
+.budget {
+  position: relative;
+  bottom: 300px;
+  height: 0px;
+  justify-content: center;
+
+}
+
+.cards {
+  border: 2px black solid;
+  width: 20%;
+  text-align: center;
+  padding: 20px;
+  display: inline-block;
+  margin: 20px;
+  border-radius: 10%;
+  background-color: #B37FC3;
+}
+
+/* .guidetext {
+  display: flex;
+  flex-direction: column;
+  align-items: auto;
+  width: 40%;
+  position: relative;
+  left: 500px;
+  top: 40px;
+  font-size: 20px;
+} */

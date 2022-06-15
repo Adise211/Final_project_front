@@ -1,0 +1,12 @@
+/* .incomesTable {
+  border: 1px black solid;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+  height: 250px;
+}
+
+.incomesTable > * {
+  border: 1px black solid;
+} */
